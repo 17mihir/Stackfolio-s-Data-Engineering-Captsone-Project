@@ -167,6 +167,6 @@ The data should be updated daily if possible, so that the star schema tables are
 - Python 2.7, Airflow and pySpark
 
 ## Authors
-- Jonathan Kamau - [Github Profile](https://github.com/jonathankamau)
+- Mihir Chavan - [Github Profile](https://github.com/17mihir)
 
 
