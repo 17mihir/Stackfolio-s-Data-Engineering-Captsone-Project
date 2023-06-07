@@ -90,7 +90,7 @@ The datasets used and sources include:
 ## Installation
 Clone the repo from github by running:
 ```
-$ git clone git@github.com:jonathankamau/udend-capstone-project.git
+$ git clone git@github.com:17mihir/Skymet-Weather-Forecast-s-automated-data-pipeline-for-temperature-and-immigration-information..git
 ```
 Once cloned, create a virtualenv on your local machine that will be your local development environment:
 ```
